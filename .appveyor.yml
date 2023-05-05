@@ -15,4 +15,4 @@ build: off  # отключаем встроенную в appveyor систему
 
 
 test_script:
-  - npm run lint && npm test  # скрипт тестирования
+  -  npm run lint && npm test  # скрипт тестирования
